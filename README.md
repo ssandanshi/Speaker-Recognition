@@ -1,9 +1,12 @@
 # Speaker-Recognition
 Code for CSC591 Machine Learning for User Adaptive Systems Self Selected Project: Speaker Identification Embedding generation
-Group ID: ALL_8 . Group Members:
-Chengyuan Liu (cliu32@ncsu.edu) 
-Rachit Shah (rshah25@ncsu.edu)
-Sourabh Sandanshi (ssandan@ncsu.edu)
+Group ID: ALL_8 . 
+<br>
+Group Members:
+<br>
+Chengyuan Liu (cliu32@ncsu.edu) <br>
+Rachit Shah (rshah25@ncsu.edu)<br>
+Sourabh Sandanshi (ssandan@ncsu.edu)<br>
 
 Three Notebooks have tthe following Purpose - 
 
