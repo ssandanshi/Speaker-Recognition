@@ -8,7 +8,7 @@ Chengyuan Liu (cliu32@ncsu.edu) <br>
 Rachit Shah (rshah25@ncsu.edu)<br>
 Sourabh Sandanshi (ssandan@ncsu.edu)<br>
 
-Three Notebooks have tthe following Purpose - 
+Three Notebooks have the following Purpose - 
 
 CSC_591_G8_Speaker_Recognition.ipynb - This is the main code for preprocessing and training the embedding model.
 <br>
