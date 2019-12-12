@@ -19,7 +19,7 @@ Speaker_Recognition_HMM.ipynb - thtis has code for HMM-GMM
 
 Best way to run the notebook is using google colab. Open the notebook and colab at https://colab.research.google.com. You can find link to the colab notebook when you open the notebook in gitthub or locally. Or you can run locally on jupyter.
 
-As the Data set takes too much time for preprocessing, we have saved the Extractetd features as npy files. This can be found in subset3_npy.zip file. Here is a link to file [LINK TO FILE](https://drive.google.com/open?id=13x5mgth1FR0244i-45B5JZEY2oLSPRl2) . add the file to your drive root folder.
+As the Data set takes too much time for preprocessing, we have saved the Extractetd features as npy files. This can be found in subset3_npy.zip file. Here is a [link to file](https://drive.google.com/open?id=13x5mgth1FR0244i-45B5JZEY2oLSPRl2). add the file to your drive root folder.
 
 We are also providing three model saved weights. The link to them are as follows. Add them to your drive to use.
 
