@@ -8,7 +8,9 @@ Sourabh Sandanshi (ssandan@ncsu.edu)
 Three Notebooks have tthe following Purpose - 
 
 CSC_591_G8_Speaker_Recognition.ipynb - This is the main code for preprocessing and training the embedding model.
+<br>
 Speaker_Recognition_Baseline.ipynb - this has code to build baseline models.
+<br>
 Speaker_Recognition_HMM.ipynb - thtis has code for HMM-GMM
 
 Best way to run the notebook is using google colab. Open the notebook and colab at https://colab.research.google.com. You can find link to the colab notebook when you open the notebook in gitthub or locally. Or you can run locally on jupyter.
