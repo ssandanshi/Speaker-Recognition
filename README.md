@@ -1,5 +1,6 @@
 # Speaker-Recognition
-Code for CSC591 Machine Learning for User Adaptive Systems Self Selected Project: Speaker Identification Embedding generation
+CSC591 Machine Learning for User Adaptive Systems Self Selected Project: Speaker Identification Embedding generation
+<br>
 Group ID: ALL_8 . 
 <br>
 Group Members:
